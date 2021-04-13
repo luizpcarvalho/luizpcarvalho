@@ -3,7 +3,7 @@
     <h3> Here is what I'm workin on! 👋 </h3>
 
     - 🔭 I’m currently working at Zup Innovation!
-    - 🌱 I’m currently learning Kotlin with Micronaut and gRPC
+    - 🌱 I’m currently learning Kotlin + Micronaut + gRPC
     - 💬 Ask me about anything
     - 📫 How to reach me: luizpauloiftm@gmail.com
     - 😄 Pronouns: He/Him
