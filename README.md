@@ -1,6 +1,6 @@
 <table>
   <tr>
-  <th text-align="left" colspan="5">
+  <td text-align="left" colspan="5">
     <h3> Here is what I'm workin on! 👋 </h3>
 
     - 🔭 I’m currently working at Zup Innovation!
@@ -9,10 +9,10 @@
     - 📫 How to reach me: luizpauloiftm@gmail.com
     - 😄 Pronouns: He/Him
     - ⚡ Fun fact: I can cook!
-  </th>
-  <th colspan="5">
+  </td>
+  <td colspan="5">
     <img src="https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&logoColor=white&color=2bbc8a" />
-  </th>
+  </td>
   </tr>
 </table>
 
