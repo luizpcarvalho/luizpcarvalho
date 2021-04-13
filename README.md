@@ -9,6 +9,10 @@
     - 😄 Pronouns: He/Him
     - ⚡ Fun fact: I can cook!
   </div>
+  <div>
+    ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat-square&logo=appveyor&logo=java&logoColor=white&color=2bbc8a)
+    ?style=flat-square&logo=appveyor
+  </div>
 </div>
 
 <div align="center">
