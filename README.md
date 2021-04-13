@@ -10,7 +10,7 @@
     - ⚡ Fun fact: I can cook!
   </div>
   <div align="right">
-    <img src="https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=appveyor&logo=Java&logoColor=white&color=2bbc8a" />
+    <img src="https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&logoColor=white&color=2bbc8a" />
   </div>
 </div>
 
