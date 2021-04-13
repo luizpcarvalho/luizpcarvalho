@@ -11,13 +11,13 @@
     - ⚡ Fun fact: I can cook!
   </td>
   <td width="50%">
-    <div>
+    <div align="left">
     <img src="https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&logoColor=white&color=2bbc8a" /> </br>
     <img src="https://img.shields.io/badge/Code-Spring-informational?style=flat-square&logo=Spring&logoColor=white&color=2bbc8a" /> </br>
     <img src="https://img.shields.io/badge/Code-Kotlin-informational?style=flat-square&logo=Kotlin&logoColor=white&color=2bbc8a" /> </br>
     <img src="https://img.shields.io/badge/Code-Micronaut-informational?style=flat-square&logo=Kotlin&logoColor=white&color=2bbc8a" /> </br>
     </div>
-    <div>
+    <div align="right">
       <img src="https://img.shields.io/badge/Code-Micronaut-informational?style=flat-square&logo=Kotlin&logoColor=white&color=2bbc8a" /> </br>
     </div>
   </td>
