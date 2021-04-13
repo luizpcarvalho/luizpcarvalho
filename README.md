@@ -1,5 +1,5 @@
-<div style="width: 100%">
-  <div style="width: 50%; float:left">
+<div style="align-items: center;display: flex;justify-content: center;">
+  <div>
     <h3> Here is what I'm workin on! 👋 </h3>
 
     - 🔭 I’m currently working at Zup Innovation!
@@ -9,7 +9,7 @@
     - 😄 Pronouns: He/Him
     - ⚡ Fun fact: I can cook!
   </div>
-  <div style="width: 50%; float:left">
+  <div>
     <a href="https://github.com/luizpcarvalho/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizpcarvalho&repo=github-readme-stats&show_owner=true" />
     </a>
