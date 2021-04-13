@@ -1,5 +1,5 @@
-<table>
-  <th>
+<table width="100%">
+  <th text-align="left">
     <h3> Here is what I'm workin on! 👋 </h3>
 
     - 🔭 I’m currently working at Zup Innovation!
