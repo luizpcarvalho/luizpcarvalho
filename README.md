@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" width=100%>
   <div align="left">
     <h3> Here is what I'm workin on! 👋 </h3>
 
