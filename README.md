@@ -1,5 +1,5 @@
 <div>
-  <div>
+  <div align="left">
     <h3> Here is what I'm workin on! 👋 </h3>
 
     - 🔭 I’m currently working at Zup Innovation!
@@ -9,7 +9,7 @@
     - 😄 Pronouns: He/Him
     - ⚡ Fun fact: I can cook!
   </div>
-  <div>
+  <div align="right">
     <img src="https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat-square&logo=appveyor&logo=java&logoColor=white&color=2bbc8a" />
   </div>
 </div>
