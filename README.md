@@ -10,3 +10,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizpcarvalho&layout=compact)](https://github.com/luizpcarvalho/github-readme-stats)
  
 [![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizpcarvalho&show_icons=true)](https://github.com/luizpcarvalho/github-readme-stats)
+
+<a href="https://github.com/luizpcarvalho/github-readme-stats">
+  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizpcarvalho&layout=compact)]" />
+</a>
+<a href="https://github.com/luizpcarvalho/github-readme-stats">
+  <img align="center" src="[![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizpcarvalho&show_icons=true)" />
+</a>
