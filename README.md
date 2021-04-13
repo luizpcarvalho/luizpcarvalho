@@ -1,4 +1,4 @@
-<table width="100">
+<table width="100%">
   <tr>
   <td width="100">
     <h3> Here is what I'm workin on! 👋 </h3>
