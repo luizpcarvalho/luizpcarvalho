@@ -11,7 +11,8 @@
     - ⚡ Fun fact: I can cook!
   </td>
   <td width="50%">
-    <img src="https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&logoColor=white&color=2bbc8a" />
+    <img src="https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&logoColor=white&color=2bbc8a" /> </br>
+    <img src="https://img.shields.io/badge/Code-Kotlin-informational?style=flat-square&logo=Kotlin&logoColor=white&color=2bbc8a" /> </br>
   </td>
   </tr>
 </table>
