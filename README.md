@@ -1,4 +1,4 @@
-<div align="center" width=100%>
+<div width=100%>
   <div style="float:left">
     <h3> Here is what I'm workin on! 👋 </h3>
 
