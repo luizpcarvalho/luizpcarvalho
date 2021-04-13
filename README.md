@@ -1,4 +1,5 @@
-<table width="100%">
+<table>
+  <tr width="100%">
   <th text-align="left">
     <h3> Here is what I'm workin on! 👋 </h3>
 
@@ -12,6 +13,7 @@
   <th>
     <img src="https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&logoColor=white&color=2bbc8a" />
   </th>
+  </tr>
 </table>
 
 <div align="center">
