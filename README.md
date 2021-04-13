@@ -6,9 +6,3 @@
 - 📫 How to reach me: luizpauloiftm@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can cook!
-
-- uses: Platane/snk@master
-  with:
-    github_user_name: platane
-    gif_out_path: dist/github-contribution-grid-snake.gif
-    svg_out_path: dist/github-contribution-grid-snake.svg
