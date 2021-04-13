@@ -1,4 +1,4 @@
-<div style="align-items: center;display: flex;justify-content: center;">
+<div>
   <div>
     <h3> Here is what I'm workin on! 👋 </h3>
 
@@ -8,11 +8,6 @@
     - 📫 How to reach me: luizpauloiftm@gmail.com
     - 😄 Pronouns: He/Him
     - ⚡ Fun fact: I can cook!
-  </div>
-  <div>
-    <a href="https://github.com/luizpcarvalho/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizpcarvalho&repo=github-readme-stats&show_owner=true" />
-    </a>
   </div>
 </div>
 
