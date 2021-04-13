@@ -1,5 +1,5 @@
-<div style="border: 3px solid #fff;padding: 20px;">
-  <div style="width: 50%;float: left;padding: 20px;border: 2px solid red;">
+<div align="justify">
+  <div>
     <h3> Here is what I'm workin on! 👋 </h3>
 
     - 🔭 I’m currently working at Zup Innovation!
@@ -9,7 +9,7 @@
     - 😄 Pronouns: He/Him
     - ⚡ Fun fact: I can cook!
   </div>
-  <div style="width: 50%;float: left;padding: 20px;border: 2px solid red;">
+  <div>
     <img src="https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&logoColor=white&color=2bbc8a" />
   </div>
 </div>
