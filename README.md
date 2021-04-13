@@ -6,7 +6,7 @@
     - 🔭 I’m currently working at Zup Innovation!
     - 🌱 I’m currently learning Kotlin + Micronaut + gRPC
     - 💬 Ask me about anything
-    - 📫 How to reach me: luizpauloiftm@gmail.com [LinkedIn](https://www.linkedin.com/in/luiz-paulo-carvalho/)
+    - 📫 How to reach me: luizpauloiftm@gmail.com
     - 😄 Pronouns: He/Him
     - ⚡ Fun fact: I can cook!
 
