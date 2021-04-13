@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Code-Kotlin-informational?style=flat-square&logo=Kotlin&logoColor=white&color=2bbc8a" />
     <img src="https://img.shields.io/badge/Code-Micronaut-informational?style=flat-square&logo=Kotlin&logoColor=white&color=2bbc8a" /> </br>
     <img src="https://img.shields.io/badge/Code-gRPC-informational?style=flat-square&logo=Google&logoColor=white&color=2bbc8a" />
-    <img src="https://img.shields.io/badge/Code-IntelliJ-IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=2bbc8a" /> </br></br></br></br>
+    <img src="https://img.shields.io/badge/Code-IntelliJ-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=2bbc8a" /> </br></br></br></br>
   </td>
   </tr>
 </table>
