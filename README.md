@@ -1,6 +1,6 @@
 <table>
   <tr>
-  <td text-align="left" colspan="5">
+  <td width="50">
     <h3> Here is what I'm workin on! 👋 </h3>
 
     - 🔭 I’m currently working at Zup Innovation!
@@ -10,7 +10,7 @@
     - 😄 Pronouns: He/Him
     - ⚡ Fun fact: I can cook!
   </td>
-  <td colspan="5">
+  <td width="50">
     <img src="https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&logoColor=white&color=2bbc8a" />
   </td>
   </tr>
