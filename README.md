@@ -8,10 +8,11 @@
 - ⚡ Fun fact: I can cook!
 
 
-
-<a href="https://github.com/luizpcarvalho/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpcarvalho&layout=compact" />
-</a>
-<a href="https://github.com/luizpcarvalho/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizpcarvalho&show_icons=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/luizpcarvalho/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpcarvalho&layout=compact" />
+  </a>
+  <a href="https://github.com/luizpcarvalho/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizpcarvalho&show_icons=true" />
+  </a>
+</div>
