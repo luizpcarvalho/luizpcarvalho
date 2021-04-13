@@ -8,3 +8,4 @@
 - ⚡ Fun fact: I can cook!
 
  
+[![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizpcarvalho)](https://github.com/luizpcarvalho/github-readme-stats)
