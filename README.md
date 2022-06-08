@@ -9,14 +9,17 @@
     - 📫 How to reach me: luizpauloiftm@gmail.com
     - 😄 Pronouns: He/Him
     - ⚡ Fun fact: I can cook!
-
+    
+  <tr>
+  <td width="50%">
+    <a href="https://github.com/luizpcarvalho/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpcarvalho&layout=compact&theme=tokyonight" />
+    </a>
+  </td>
   </tr>
 </table>
 
 <div align="center">
-  <a href="https://github.com/luizpcarvalho/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpcarvalho&layout=compact&theme=tokyonight" />
-  </a>
   <a href="https://github.com/luizpcarvalho/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizpcarvalho&show_icons=true&theme=tokyonight" />
   </a>
