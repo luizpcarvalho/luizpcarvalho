@@ -10,7 +10,7 @@
     - 😄 Pronouns: He/Him
     - ⚡ Fun fact: I can cook!
     
-  <tr>
+  </td>
   <td width="50%">
     <a href="https://github.com/luizpcarvalho/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpcarvalho&layout=compact&theme=tokyonight" />
